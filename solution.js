@@ -66,3 +66,4 @@ if (percentageComplete < 30) {
 } else if (percentageComplete === 100) {
   console.log("Q4: You're there. Well done!");
 }
+// wenn man auf Gleicheit prüfen möchte, benutzt man switch , sonst man soll If statment benutzen
